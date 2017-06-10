@@ -7,5 +7,5 @@
 "ipaccess":false,
 "reg_login_url":"\u0075\u0073\u0065\u0072\u002e\u0074\u0065\u0064\u0061\u0064\u0061\u002e\u0074\u006f\u0070\u003a\u0034\u0034\u0033",
 "githuburl":"https://github.com/chuguofan/chuguo",
-"siteurl":"https://a.tzqby.xyz:17869"
+"siteurl":"http://www.cglove.info"
 }
